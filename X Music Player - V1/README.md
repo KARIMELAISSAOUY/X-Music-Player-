@@ -16,8 +16,11 @@ a sleek and intuitive music player experience.
 
 ## Features𝄞
 🔹 **Basic Structure:** The HTML file is structured to accommodate all the necessary elements of a music player, providing a solid foundation for the project.
+
 🔹 **Stylish Design:** With CSS, I've crafted a visually appealing and user-friendly interface, ensuring that users enjoy interacting with the player.
+
 🔹 **Interactive Functionality:** JavaScript handles play, pause, next, and previous functionalities seamlessly, offering a smooth user experience.
+
 🔹 **Track Progress Control:** I've added features to control track progress, allowing users to easily navigate through their favorite tunes.
 
 ### Project Structure𝄞
