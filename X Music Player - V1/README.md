@@ -5,11 +5,10 @@
 </div>
 
 ## Introduction
-Welcome to X Music Player 🎶 , This project is a result of my passion for music and my love for coding. Built entirely from scratch using HTML, CSS, and JavaScript, X Music Player aims to provide users with a sleek and intuitive music player experience.
-
 ```
->
-
+Welcome to X Music Player 🎶 , This project is a result of my passion for music and my love for coding.
+Built entirely from scratch using HTML, CSS, and JavaScript, X Music Player aims to provide users with
+a sleek and intuitive music player experience.
 ```
 
 ![X Player V1](xplayerv1.jpg)
