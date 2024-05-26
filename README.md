@@ -6,6 +6,10 @@ Welcome to X Music Player 🎶 , This project is a result of my passion for musi
 
  
 
+https://github.com/KARIMELAISSAOUY/X-Music-Player-/assets/118484209/1e631110-a6cc-4a96-bec3-d59f6f62f7a9
+
+
+
 
 <div align="center">
    Developed ⭐️ By <a href="#">🔹 KARIM</a>
